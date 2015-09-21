@@ -1,1 +1,2 @@
-main.o: main.cpp
+Bubble.o: Bubble.cpp Bubble.hpp
+main.o: main.cpp Bubble.hpp

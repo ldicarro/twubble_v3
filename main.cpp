@@ -1,5 +1,7 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
+#include "Bubble.hpp"
+
 
 using namespace std;
 using namespace sf;
